@@ -1,0 +1,18 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.953"
+    ],
+    "filament_settings_id": [
+        "3DPlast PETG Neo Graphite Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "3DPlast PETG Neo Graphite Flow Rate Calibrated",
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "2.0.0.89"
+}

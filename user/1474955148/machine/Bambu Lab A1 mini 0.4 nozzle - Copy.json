@@ -1,0 +1,17 @@
+{
+    "bed_custom_model": "C:/Program Files/Bambu Studio/resources/profiles/BBL/bbl-3dp-A1M.stl",
+    "from": "User",
+    "inherits": "Bambu Lab A1 mini 0.4 nozzle",
+    "min_layer_height": [
+        "0.15"
+    ],
+    "name": "Bambu Lab A1 mini 0.4 nozzle - Copy",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "Bambu Lab A1 mini 0.4 nozzle - Copy",
+    "version": "2.0.0.72"
+}

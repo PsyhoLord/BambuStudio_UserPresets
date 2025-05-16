@@ -1,0 +1,24 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "3DPlast ABS @BBL X1C"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL X1C",
+    "name": "3DPlast ABS @BBL X1C",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "version": "2.0.0.87"
+}

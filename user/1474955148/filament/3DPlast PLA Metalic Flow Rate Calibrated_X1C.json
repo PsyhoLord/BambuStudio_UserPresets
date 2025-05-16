@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.958"
+    ],
+    "filament_settings_id": [
+        "3DPlast PLA Metalic Flow Rate Calibrated_X1C"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "3DPlast PLA Metalic Flow Rate Calibrated_X1C",
+    "version": "2.0.0.89"
+}

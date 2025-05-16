@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.012"
+    ],
+    "filament_settings_id": [
+        "3DPlast ABS Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "3DPlast ABS Flow Rate Calibrated",
+    "version": "2.0.0.87"
+}

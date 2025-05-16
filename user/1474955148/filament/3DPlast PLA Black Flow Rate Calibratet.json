@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.02"
+    ],
+    "filament_settings_id": [
+        "3DPlast PLA Black Flow Rate Calibratet"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "3DPlast PLA Black Flow Rate Calibratet",
+    "version": "2.0.0.89"
+}
